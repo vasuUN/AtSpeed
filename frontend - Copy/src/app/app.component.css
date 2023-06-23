@@ -1,0 +1,9 @@
+.register{
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 15%;
+width: 1920px;
+height: 1080px;
+background: #F3F3F3;
+}
